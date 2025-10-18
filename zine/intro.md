@@ -14,6 +14,6 @@ Make sure there are no run along sentances
 Add a new story
 Add a new story about dogs
 //feat
-make new time machine
+i dont want to make a time machine
 //fix
 fix multi deminesion error

@@ -15,3 +15,5 @@ Add a new story
 Add a new story about dogs
 //feat
 make new time machine
+//fix
+fix multi deminesion error

@@ -13,3 +13,5 @@ Make sure there are no run along sentances
 //feat
 Add a new story
 Add a new story about dogs
+//feat
+make new time machine

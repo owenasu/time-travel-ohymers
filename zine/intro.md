@@ -10,3 +10,6 @@ Fix the idea of the write and make it more wild
 //FIX
 Fix the length of sentances
 Make sure there are no run along sentances
+//feat
+Add a new story
+Add a new story about dogs
